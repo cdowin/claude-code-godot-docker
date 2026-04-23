@@ -1,6 +1,6 @@
 FROM ghcr.io/cdowin/claude-code-docker:latest
 
-ARG GODOT_VERSION=4.5.1
+ARG GODOT_VERSION=4.6.2
 ARG GODOT_RELEASE=stable
 ARG TARGETARCH
 

@@ -5,7 +5,7 @@ Docker image for using Claude Code with Godot game development. Extends [claude-
 ## What's included
 
 - Everything from `ghcr.io/cdowin/claude-code-docker` (Claude Code, firewall, gh CLI, etc.)
-- Godot 4.5.1 headless binary
+- Godot 4.6.2 headless binary
 - [gdtoolkit](https://github.com/Scony/godot-gdscript-toolkit) — GDScript linter/formatter
 
 ## Usage
